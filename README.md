@@ -24,3 +24,6 @@ After training, the program will:
 * Test the trained model and save the predictions to a file.
 * Plot the data from training.
 
+## Results
+
+Please view report.pdf for a summary of the results. 
